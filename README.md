@@ -4,20 +4,23 @@ Intro to HTML 4/27
 <html>
   <head>
     <title> </title>
-    <script>
-<--!link to JS (or script src="" for JQ library, self closing)-->
-    </script>
-    <style>
-<--!link to CSS -->
-    </style>
   </head>
   <body>
-
-
-
-
-
-
+    <h3>I have lived in...</h3>
+    <ul>
+      <li>Greeley</li>
+      <li>Bangkok</li>
+      <li>Ho Chi Minh City</li>
+      <li>Fort Collins</li>
+      <li>San José</li>
+      <li>Sevilla</li>
+    </ul>
+    <h3>I would love to go to...</h3>
+    <ol>
+      <li>Berlin</li>
+      <li>Singapore</li>
+      <li>Cape Town</li>
+    </ol>
 
   </body>
 </html>
